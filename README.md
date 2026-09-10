@@ -253,3 +253,6 @@ This repository serves as the official landing page for MiniTool Partition Wizar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MiniTool Partition Wizard today!**
+
+---
+**Last updated:** 2026-09-10 21:19:05 UTC
