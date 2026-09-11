@@ -255,4 +255,4 @@ This repository serves as the official landing page for MiniTool Partition Wizar
 **Get the most recent version of MiniTool Partition Wizard today!**
 
 ---
-**Last updated:** 2026-09-11 12:27:54 UTC
+**Last updated:** 2026-09-11 16:49:54 UTC
